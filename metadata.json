@@ -1,0 +1,9 @@
+{
+  "name": "Civic Connect",
+  "description": "A platform for citizens to report local issues and for municipal staff to manage and resolve them. It features user and admin portals, issue tracking, status updates, and analytics to improve civic engagement and government accountability.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
